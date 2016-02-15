@@ -23,3 +23,4 @@ items.sort(function (a, b) {
     return 0;
 });
 console.log(items);
+alert("It's all of me");
